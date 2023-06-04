@@ -1,4 +1,4 @@
 node_modules
-news.txt
+./news.txt
 dist
 .idea
